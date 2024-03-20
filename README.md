@@ -1,1 +1,1 @@
-# Test display tree view with 6009 row
+# Test Tree View's ability to render large lists of 6000 rows
